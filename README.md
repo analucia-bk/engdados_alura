@@ -1,8 +1,8 @@
-# Curso de Engenharia de dados: Conhecendo Apache Airflow
+# Criando um projeto com Apache AirFlow
 
-## Objetivos:
-* Criar um Data Pipeline do Zero
-* Extrair dados diretamente da API do twitter
-* Orquestrar tarefas com Apache Airflow
-* Realizar processamento distribuido com Apache Spark
-* Extração de dados do pipeline
+Ferramentas Utilizadas:
+
+![apache](https://user-images.githubusercontent.com/53180510/152821743-963ab335-8901-492e-b955-0cad23b4edf4.jpg)
+
+![256x256bb](https://user-images.githubusercontent.com/53180510/152822714-ffb0bef7-daea-4a7b-99ab-5602ac8bfc5b.png)
+
