@@ -24,5 +24,26 @@ Extrair as mensagens do Twitter, através de sua API, com frequência diária e 
   <img width="200" height="200" src= "https://user-images.githubusercontent.com/53180510/152836887-f8a7eda6-dcaf-490d-af7b-0749025c69c2.jpg">
 </p>
 
+### Instalção do Apache AirFlow
+1. Primeiro criei uma pasta para a instalação. Após acessá-la, foi criado um ambiente virtual Python e ativado
+
+`$ mkdir <nome_da_pasta>`
+
+`$ cd <nome_da_pasta>`
+
+`python3 -m venv`
+
+`source .env/bin/activate`
+
+2. Criar uma variável de ambiente chamada `AIRFLOW_HOME`.
+
+`export AIRFLOW_HOME=$(pwd)/airflow`
+
+3. Instalação e iniciando
+
+`pip install apache-airflow"`
+
+`airflow db init`
+
 ### Links:
 https://developer.twitter.com/en
